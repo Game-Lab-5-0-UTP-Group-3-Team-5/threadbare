@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://comrb0ivakje8"
+path="res://.godot/imported/my_quest_intro.dialogue-398febf7303ea27e1416615d07a7ac6e.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/Lia/0_intro/intro_components/my_quest_intro.dialogue"
+dest_files=["res://.godot/imported/my_quest_intro.dialogue-398febf7303ea27e1416615d07a7ac6e.tres"]
+
+[params]
+
+defaults=true

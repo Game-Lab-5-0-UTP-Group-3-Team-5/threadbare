@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://cmdebvqtbe56l"
+path="res://.godot/imported/my_quest_outro.dialogue-286bb969a9edaa36a372c3128a39601b.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/Lia/4_outro/outro_components/my_quest_outro.dialogue"
+dest_files=["res://.godot/imported/my_quest_outro.dialogue-286bb969a9edaa36a372c3128a39601b.tres"]
+
+[params]
+
+defaults=true

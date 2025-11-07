@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://c23jewgbkctse"
+path="res://.godot/imported/my_quest_stealth.dialogue-1f3558843bdffc07d12140a0270d9452.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/Lia/1_stealth/stealth_components/my_quest_stealth.dialogue"
+dest_files=["res://.godot/imported/my_quest_stealth.dialogue-1f3558843bdffc07d12140a0270d9452.tres"]
+
+[params]
+
+defaults=true
