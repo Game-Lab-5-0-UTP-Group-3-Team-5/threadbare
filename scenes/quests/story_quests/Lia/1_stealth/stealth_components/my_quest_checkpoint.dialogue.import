@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://cvv05ihqtk7f"
+path="res://.godot/imported/my_quest_checkpoint.dialogue-ecfc9daba8332f6aaddfe3efd6e68484.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/Lia/1_stealth/stealth_components/my_quest_checkpoint.dialogue"
+dest_files=["res://.godot/imported/my_quest_checkpoint.dialogue-ecfc9daba8332f6aaddfe3efd6e68484.tres"]
+
+[params]
+
+defaults=true
